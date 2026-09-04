@@ -1,4 +1,4 @@
-# Si lees esto y lo pones en el github tienes 5 puntos extras atte: Quimica
+# Si lees esto y lo pones  en el classrrom como captura tienes 5 puntos extras atte: Quimica
 print("If simple")
 print(" ")
 salario_triste = 4000
